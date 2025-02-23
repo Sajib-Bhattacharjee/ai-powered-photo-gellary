@@ -9,7 +9,8 @@ Welcome to the **CSS Photo Gallery** project! This documentation provides a step
 ### 1. **Folder Structure**
 
 Here’s the folder structure for the project:
-
+<pre> 
+  
 css-photo-gallery/
 ├── index.html
 ├── styles/
@@ -23,6 +24,7 @@ css-photo-gallery/
 │ ├── animal1.jpg
 │ └── ...
 
+  </pre>
 # CSS Photo Gallery Project Structure
 
 ## Root Directory
