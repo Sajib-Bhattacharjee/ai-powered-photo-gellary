@@ -1,4 +1,9 @@
-# 📸 CSS Photo Gallery Documentation
+
+<div align="center">
+
+## 📸 `CSS Photo Gallery Documentation`
+
+</div>
 
 Welcome to the **CSS Photo Gallery** project! This documentation provides a step-by-step guide to setting up and using the gallery. 🚀
 
