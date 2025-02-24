@@ -9,6 +9,22 @@ Welcome to the **CSS Photo Gallery** project! This documentation provides a step
 
 ---
 
+<div align="center">
+
+## `AI-Powered Photo Gallery`
+
+## 🌟 **Live Preview** 🌟
+
+💕 [**AI-Powered Photo Gallery**](https://photogellery2025.netlify.app/) 💕
+
+🎉 Click to explore the fun and laughter! 😄
+
+
+
+</div>
+
+
+
 ## 🛠️ **Setup Instructions**
 
 ### 1. **Folder Structure**
@@ -151,4 +167,26 @@ css-photo-gallery/
 
 ---
 
-Enjoy building and customizing your CSS Photo Gallery! 🎉 If you have any questions, feel free to ask. 😊
+Enjoy building and customizing your CSS Photo Gallery! 🎉 If you have any questions, feel free to ask. 😊 
+
+
+
+---
+
+<div align="center">
+
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2025`
+
+### 👨‍💻 `Created with ❤️ by -->`
+
+✨ **Sajib Bhattacharjee** ✨
+
+**💖 Dedicated to "Sir! Anisul Islam" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting...!!!
+
+🌐 [**Portfolio & Projects**](https://github.com/Sajib-Bhattacharjee)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)  
+📧 [**Contact Me**](mailto:sajibbhattacjarjee2000@gmail.com)
+
+</div>
